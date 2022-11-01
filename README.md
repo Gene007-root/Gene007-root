@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeremyMungai
 - I go by the ALIAS tat_gene254
 - 👀 I’m interested in ...
-- Gaming
+-[ Gaming
 - Computers
 - Coding
 - IoT devices
@@ -10,20 +10,20 @@
 - Airsost
 - Paintballing
 - Adventure
-- Skateboarding
+- Skateboarding ]
 - 🌱 I’m currently learning ...
-- HTML
+- [ HTML
 - CSS
 - Javascript
 - Java
 - Linux
 - Cyber Security
-- IoT
+- IoT ]
 - 💞️ I’m looking to collaborate on ...
-- Website Development projects
+- [ Website Development projects
 - New business ideas that incorporate technology
 - Building startups that will empower our community
-- IoT projects
+- IoT projects ]
 - 📫 How to reach me ...
 - jeromevito84@outlook.com
 - jeromevito83@gmail.com
